@@ -1,4 +1,5 @@
-#! /usr/bin/env node  //npx command
+#! /usr/bin/env node
+
 //SHABANG
 
 import inquirer from "inquirer";
